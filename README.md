@@ -1,0 +1,2 @@
+# studying
+repo for learning
